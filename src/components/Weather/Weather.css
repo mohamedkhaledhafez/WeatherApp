@@ -1,0 +1,22 @@
+.info {
+  width: 100%;
+  font-size: 20px;
+  font-weight: 200;
+  letter-spacing: 2px;
+}
+
+.info-key {
+  color: #fff;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.09);
+  font-weight: 300;
+}
+
+.info-key:last-child {
+  border: none;
+}
+
+.info-value {
+  color: #fff;
+  font-weight: 400px;
+  text-transform: uppercase;
+}
